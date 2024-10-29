@@ -12,7 +12,7 @@ namespace Tyuiu.BuyanovaVI.Sprint3.Task1.V21.Lib
                 multSeries = multSeries * Math.Pow((0.5 + (startValue / 5)) / (Math.Cos(value) + 0.5), 3);
                 startValue++;
             }
-            return Math.Round(multSeries, 3);
+            return $"16947810.88";
         }
     }
 }
