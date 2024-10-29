@@ -13,7 +13,7 @@ namespace Tyuiu.BuyanovaVI.Sprint3.Task0.V13
             Console.WriteLine("* Тема: Оператор цикла for                                               *");
             Console.WriteLine("* Задание #0                                                             *");
             Console.WriteLine("* Вариант #13                                                            *");
-            Console.WriteLine("* Выполнилa: Буянова В. И. | СМАРТб-24-1                                  *");
+            Console.WriteLine("* Выполнилa: Буянова В. И. | СМАРТб-24-1                                 *");
             Console.WriteLine("**************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                               *");
             Console.WriteLine("* Написать программу используя цикл for, которая вычисляет сумму ряда    *");
